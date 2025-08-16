@@ -1,5 +1,3 @@
-Perfecto, aquí tienes el README.md con instrucciones para instalación en entornos virtuales y ejecución en Google Colab añadidas:
-
 ***
 
 # TUTORIAL COMPLETO DE PANDAS EN PYTHON
@@ -79,5 +77,6 @@ Este proyecto está disponible bajo la licencia MIT. Puedes usarlo, modificarlo 
 
 ¿Quieres mejorar este tutorial o tienes dudas?  
 Abre un *issue* para reportar errores o proponer mejoras, o crea un *pull request* con tus cambios.
+
 
 ***
